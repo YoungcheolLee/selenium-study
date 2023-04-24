@@ -1,5 +1,8 @@
 # 크롬 크롤링 자동화테스트
 
+가상 환경 생성 
+`phtyon -m venv "파일명"` 
+
 ## 기술스택
 - python
 - selenium
