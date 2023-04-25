@@ -12,7 +12,7 @@
 ### 브라우저 강제 종료 방지 코드 추가
 ![image](https://user-images.githubusercontent.com/107835019/234078577-ecddcdc7-b68d-4a8a-9aad-b5f5e917c4b4.png)
 
-### 크롬 실행
+### 크롬 실행 > google.com 접속
 ![image](https://user-images.githubusercontent.com/107835019/234078867-e05cbc9a-2671-4824-912b-d31cc511d7fa.png)
 
 ### 검색창 name property 명 확인
