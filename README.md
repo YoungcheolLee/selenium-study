@@ -8,6 +8,15 @@
 - python
 - selenium
 
+## Preview
+
+
+https://user-images.githubusercontent.com/107835019/234367551-767af2d4-ad26-417f-adf1-142235d145c9.mp4
+
+
+<br/>
+
+
 ## 구현기능
 
 ### ▣ 이미지 다운로드 경로 설정
