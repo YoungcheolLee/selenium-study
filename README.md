@@ -9,7 +9,7 @@
 
 ## 구현기능
 
-### 브라우저 종료 방지 코드 추가
+### 브라우저 강제 종료 방지 코드 추가
 ![image](https://user-images.githubusercontent.com/107835019/234078577-ecddcdc7-b68d-4a8a-9aad-b5f5e917c4b4.png)
 
 ### 크롬 실행
