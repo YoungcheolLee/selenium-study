@@ -5,8 +5,6 @@
 
 <br/>
 
-가상 환경 생성 </br>
-`phtyon -m venv "파일명"`
 
 ## 기술스택
 
@@ -20,6 +18,10 @@ https://user-images.githubusercontent.com/107835019/234367551-767af2d4-ad26-417f
 
 
 <br/>
+
+
+가상 환경 생성 </br>
+`phtyon -m venv "파일명"`
 
 
 ## 구현기능
